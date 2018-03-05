@@ -15,9 +15,22 @@ public class player : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        if (Input.GetKeyDown(KeyCode.A))
+        if (Input.GetKey(KeyCode.A))
         {
-            animator.SetTrigger("Run");
+            animator.SetBool("Run",true);
         }
-	}
+        else
+        {
+            animator.SetBool("Run", false);
+        }
+
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            animator.SetTrigger("Attack1");
+        }
+        if (Input.GetKeyDown(KeyCode.D))
+        {
+            animator.SetTrigger("Act1ToAct2");
+        }
+    }
 }
