@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 02b1b4368d238b947b22c74b96e0173f
+timeCreated: 1520097111
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: master2_0
+    21300002: master2_1
+    21300004: master2_2
+    21300006: master2_3
+    21300008: master2_4
+    21300010: master2_5
+    21300012: master2_6
+    21300014: master2_7
+    21300016: master2_8
+    21300018: master2_9
+    21300020: master2_10
+    21300022: master2_11
+    21300024: master2_12
+    21300026: master2_13
+    21300028: master2_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: master2_0
+      rect:
+        serializedVersion: 2
+        x: 357.72498
+        y: 1695.8828
+        width: 196.29547
+        height: 265.06226
+      alignment: 9
+      pivot: {x: 0.4777237, y: 0.49655244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: master2_2
+      rect:
+        serializedVersion: 2
+        x: 835.6676
+        y: 1804.3029
+        width: 108.77411
+        height: 115.025635
+      alignment: 9
+      pivot: {x: 0.49030474, y: 0.49290878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: master2_3
+      rect:
+        serializedVersion: 2
+        x: 1094.0411
+        y: 1590.486
+        width: 258.81067
+        height: 402.59595
+      alignment: 9
+      pivot: {x: 0.496343, y: 0.5005367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: master2_4
+      rect:
+        serializedVersion: 2
+        x: 1612.605
+        y: 1636
+        width: 110
+        height: 366.33704
+      alignment: 9
+      pivot: {x: 0.4990467, y: 0.4981751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: master2_5
+      rect:
+        serializedVersion: 2
+        x: 1886.1539
+        y: 1645.8035
+        width: 88.769165
+        height: 367.58728
+      alignment: 9
+      pivot: {x: 0.49393493, y: 0.49837562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: master2_8
+      rect:
+        serializedVersion: 2
+        x: 211.94702
+        y: 1466
+        width: 236.25
+        height: 163.7876
+      alignment: 9
+      pivot: {x: 0.49757874, y: 0.49454296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: master2_12
+      rect:
+        serializedVersion: 2
+        x: 610.8496
+        y: 1303
+        width: 167.5
+        height: 167.53845
+      alignment: 9
+      pivot: {x: 0.49642023, y: 0.49839303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: master2_13
+      rect:
+        serializedVersion: 2
+        x: 970.7617
+        y: 1370
+        width: 132.5
+        height: 146.28333
+      alignment: 9
+      pivot: {x: 0.49613798, y: 0.49561357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: master2_14
+      rect:
+        serializedVersion: 2
+        x: 283.92944
+        y: 777
+        width: 1718.75
+        height: 433.85352
+      alignment: 9
+      pivot: {x: 0.49982285, y: 0.49901634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99621083844724
+  assetBundleName: 
+  assetBundleVariant: 
