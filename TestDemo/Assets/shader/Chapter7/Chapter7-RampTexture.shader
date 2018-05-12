@@ -46,7 +46,7 @@ Shader "Unity Shaders Book/Chapter 7/Ramp Texture" {
 				
 				o.worldPos = mul(unity_ObjectToWorld, v.vertex).xyz;
 				
-				o.uv = TRANSFORM_TEX(v.texcoord, _RampTex);
+				//o.uv = TRANSFORM_TEX(v.texcoord, _RampTex);
 				
 				return o;
 			}

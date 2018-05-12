@@ -1,7 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/Start.unity
+- path: Assets/Scene/Chapter9/Scene_9_4_5_b.unity
   isLoaded: 1
   isActive: 1
-- path: Assets/Anima2D/Examples/Scenes/TRex.unity
-  isLoaded: 1
-  isActive: 0

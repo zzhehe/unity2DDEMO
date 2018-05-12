@@ -8,7 +8,7 @@ Shader "Unity Shaders Book/Chapter 7/Normal Map In World Space" {
 		_BumpMap ("Normal Map", 2D) = "bump" {}
 		_BumpScale ("Bump Scale", Float) = 1.0
 		_Specular ("Specular", Color) = (1, 1, 1, 1)
-		_Gloss ("Gloss", Range(8.0, 256)) = 20
+		_Gloss ("Gloss", Range(8.0, 256)) = 40
 	}
 	SubShader {
 		Pass { 
